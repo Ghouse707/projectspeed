@@ -64,7 +64,8 @@ Saved output video
 Saved detected frames
 📸 Sample Output
 
-(Add screenshots here)
+<img width="1020" height="500" alt="frame_1064" src="https://github.com/user-attachments/assets/c51049fd-3422-4083-8e2c-fca8c486aa77" />
+
 
 🔮 Future Improvements
 Speed violation alert system
